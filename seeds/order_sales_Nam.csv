@@ -1,0 +1,101 @@
+OrderId	Date	CustomerName	ProductCode	Brand	Pack	Volume	Value	Currency
+74221	2-Jan-26	Spar Group	SKU-100	Heineken	330ml	190	19 000	NAD
+44587	2-Jan-26	PnP	SKU-102	Windhoek Lager	440ml	160	19 200	NAD
+82463	2-Jan-26	Woerman	SKU-103	Heineken 0.0	330ml	120	13 800	NAD
+97941	2-Jan-26	PnP	SKU-100	Heineken	330ml	50	5 000	NAD
+94842	2-Jan-26	Spar Group	SKU-101	Amstel	330ml	180	17 100	NAD
+40869	3-Jan-26	PnP	SKU-100	Heineken	330ml	130	13 000	NAD
+40764	3-Jan-26	PnP	SKU-101	Amstel	330ml	170	16 150	NAD
+58090	3-Jan-26	Spar Group	SKU-102	Windhoek Lager	440ml	100	12 000	NAD
+33775	3-Jan-26	Checkers	SKU-200	Heineken	650ml	200	24 000	NAD
+77482	4-Jan-26	Spar Group	SKU-100	Heineken	330ml	190	19 000	NAD
+24771	5-Jan-26	Shoprite Group	SKU-100	Heineken	330ml	110	11 000	NAD
+50703	5-Jan-26	Checkers	SKU-103	Heineken 0.0	330ml	60	6 900	NAD
+52849	5-Jan-26	Shoprite Group	SKU-102	Windhoek Lager	440ml	140	16 800	NAD
+45904	7-Jan-26	Checkers	SKU-102	Windhoek Lager	440ml	170	20 400	NAD
+98340	7-Jan-26	PnP	SKU-100	Heineken	330ml	150	15 000	NAD
+14332	7-Jan-26	PnP	SKU-200	Heineken	650ml	120	14 400	NAD
+91666	7-Jan-26	Shoprite Group	SKU-200	Heineken	650ml	90	10 800	NAD
+81921	7-Jan-26	Spar Group	SKU-100	Heineken	330ml	50	5 000	NAD
+95944	8-Jan-26	Shoprite Group	SKU-102	Windhoek Lager	440ml	140	16 800	NAD
+92774	9-Jan-26	PnP	SKU-100	Heineken	330ml	140	14 000	NAD
+57551	9-Jan-26	Shoprite Group	SKU-103	Heineken 0.0	330ml	70	8 050	NAD
+86404	10-Jan-26	Spar Group	SKU-200	Heineken	650ml	100	12 000	NAD
+30030	10-Jan-26	PnP	SKU-100	Heineken	330ml	200	20 000	NAD
+43596	11-Jan-26	Checkers	SKU-103	Heineken 0.0	330ml	130	14 950	NAD
+43845	11-Jan-26	PnP	SKU-200	Heineken	650ml	190	22 800	NAD
+20546	12-Jan-26	Shoprite Group	SKU-103	Heineken 0.0	330ml	110	12 650	NAD
+93767	13-Jan-26	PnP	SKU-103	Heineken 0.0	330ml	100	11 500	NAD
+27143	13-Jan-26	Spar Group	SKU-101	Amstel	330ml	130	12 350	NAD
+73133	13-Jan-26	PnP	SKU-200	Heineken	650ml	110	13 200	NAD
+78669	14-Jan-26	Woerman	SKU-103	Heineken 0.0	330ml	100	11 500	NAD
+38535	15-Jan-26	PnP	SKU-101	Amstel	330ml	50	4 750	NAD
+55494	16-Jan-26	Checkers	SKU-103	Heineken 0.0	330ml	90	10 350	NAD
+54677	16-Jan-26	Woerman	SKU-102	Windhoek Lager	440ml	70	8 400	NAD
+35646	16-Jan-26	Spar Group	SKU-200	Heineken	650ml	180	21 600	NAD
+52205	17-Jan-26	Shoprite Group	SKU-100	Heineken	330ml	120	12 000	NAD
+16779	17-Jan-26	Woerman	SKU-100	Heineken	330ml	140	14 000	NAD
+15220	19-Jan-26	Spar Group	SKU-100	Heineken	330ml	140	14 000	NAD
+10932	20-Jan-26	Shoprite Group	SKU-100	Heineken	330ml	170	17 000	NAD
+53090	20-Jan-26	Woerman	SKU-101	Amstel	330ml	190	18 050	NAD
+74764	20-Jan-26	Shoprite Group	SKU-101	Amstel	330ml	100	9 500	NAD
+97928	25-Jan-26	Woerman	SKU-200	Heineken	650ml	170	20 400	NAD
+27967	26-Jan-26	Shoprite Group	SKU-100	Heineken	330ml	70	7 000	NAD
+49815	26-Jan-26	Shoprite Group	SKU-200	Heineken	650ml	160	19 200	NAD
+62951	26-Jan-26	Checkers	SKU-103	Heineken 0.0	330ml	140	16 100	NAD
+15211	26-Jan-26	Spar Group	SKU-102	Windhoek Lager	440ml	50	6 000	NAD
+42491	27-Jan-26	Spar Group	SKU-200	Heineken	650ml	50	6 000	NAD
+72901	28-Jan-26	Woerman	SKU-103	Heineken 0.0	330ml	120	13 800	NAD
+54349	29-Jan-26	Shoprite Group	SKU-200	Heineken	650ml	160	19 200	NAD
+89988	29-Jan-26	Woerman	SKU-103	Heineken 0.0	330ml	150	17 250	NAD
+65795	30-Jan-26	Woerman	SKU-101	Amstel	330ml	160	15 200	NAD
+49489	30-Jan-26	PnP	SKU-102	Windhoek Lager	440ml	150	18 000	NAD
+72774	31-Jan-26	PnP	SKU-103	Heineken 0.0	330ml	170	19 550	NAD
+27319	2-Feb-26	Woerman	SKU-100	Heineken	330ml	150	15 000	NAD
+79501	2-Feb-26	PnP	SKU-103	Heineken 0.0	330ml	190	21 850	NAD
+63591	4-Feb-26	PnP	SKU-101	Amstel	330ml	180	17 100	NAD
+12799	5-Feb-26	Spar Group	SKU-100	Heineken	330ml	180	18 000	NAD
+71065	5-Feb-26	PnP	SKU-101	Amstel	330ml	180	17 100	NAD
+88869	5-Feb-26	Spar Group	SKU-200	Heineken	650ml	100	12 000	NAD
+39345	5-Feb-26	Woerman	SKU-102	Windhoek Lager	440ml	170	20 400	NAD
+44855	6-Feb-26	Woerman	SKU-102	Windhoek Lager	440ml	60	7 200	NAD
+18793	6-Feb-26	Woerman	SKU-100	Heineken	330ml	190	19 000	NAD
+36598	8-Feb-26	Woerman	SKU-200	Heineken	650ml	170	20 400	NAD
+45450	8-Feb-26	Woerman	SKU-101	Amstel	330ml	170	16 150	NAD
+72264	10-Feb-26	Spar Group	SKU-200	Heineken	650ml	70	8 400	NAD
+44127	11-Feb-26	Woerman	SKU-200	Heineken	650ml	180	21 600	NAD
+64421	11-Feb-26	PnP	SKU-103	Heineken 0.0	330ml	170	19 550	NAD
+70736	12-Feb-26	Checkers	SKU-102	Windhoek Lager	440ml	80	9 600	NAD
+87077	12-Feb-26	Checkers	SKU-103	Heineken 0.0	330ml	70	8 050	NAD
+16177	14-Feb-26	Shoprite Group	SKU-101	Amstel	330ml	80	7 600	NAD
+91275	15-Feb-26	Shoprite Group	SKU-200	Heineken	650ml	140	16 800	NAD
+26115	15-Feb-26	Spar Group	SKU-103	Heineken 0.0	330ml	150	17 250	NAD
+75187	16-Feb-26	Checkers	SKU-101	Amstel	330ml	70	6 650	NAD
+98781	16-Feb-26	Shoprite Group	SKU-103	Heineken 0.0	330ml	120	13 800	NAD
+69811	16-Feb-26	Spar Group	SKU-100	Heineken	330ml	190	19 000	NAD
+57281	16-Feb-26	Spar Group	SKU-200	Heineken	650ml	170	20 400	NAD
+42685	16-Feb-26	PnP	SKU-101	Amstel	330ml	140	13 300	NAD
+71938	17-Feb-26	Woerman	SKU-103	Heineken 0.0	330ml	140	16 100	NAD
+74429	18-Feb-26	PnP	SKU-100	Heineken	330ml	110	11 000	NAD
+15164	19-Feb-26	PnP	SKU-200	Heineken	650ml	180	21 600	NAD
+11925	19-Feb-26	PnP	SKU-101	Amstel	330ml	200	19 000	NAD
+72199	19-Feb-26	Checkers	SKU-103	Heineken 0.0	330ml	130	14 950	NAD
+63548	20-Feb-26	Shoprite Group	SKU-101	Amstel	330ml	170	16 150	NAD
+77102	20-Feb-26	Woerman	SKU-103	Heineken 0.0	330ml	170	19 550	NAD
+55702	20-Feb-26	Woerman	SKU-102	Windhoek Lager	440ml	150	18 000	NAD
+78678	21-Feb-26	Checkers	SKU-200	Heineken	650ml	60	7 200	NAD
+18686	21-Feb-26	Woerman	SKU-101	Amstel	330ml	70	6 650	NAD
+47782	22-Feb-26	Woerman	SKU-103	Heineken 0.0	330ml	110	12 650	NAD
+63307	22-Feb-26	Checkers	SKU-100	Heineken	330ml	50	5 000	NAD
+95970	23-Feb-26	Woerman	SKU-200	Heineken	650ml	60	7 200	NAD
+14285	23-Feb-26	Woerman	SKU-101	Amstel	330ml	140	13 300	NAD
+83384	23-Feb-26	Shoprite Group	SKU-102	Windhoek Lager	440ml	100	12 000	NAD
+63246	23-Feb-26	PnP	SKU-101	Amstel	330ml	140	13 300	NAD
+73111	24-Feb-26	Spar Group	SKU-101	Amstel	330ml	80	7 600	NAD
+69159	25-Feb-26	Spar Group	SKU-103	Heineken 0.0	330ml	60	6 900	NAD
+35598	26-Feb-26	Woerman	SKU-200	Heineken	650ml	180	21 600	NAD
+91015	26-Feb-26	Spar Group	SKU-103	Heineken 0.0	330ml	200	23 000	NAD
+34841	27-Feb-26	Checkers	SKU-103	Heineken 0.0	330ml	70	8 050	NAD
+25116	28-Feb-26	Shoprite Group	SKU-200	Heineken	650ml	140	16 800	NAD
+57830	28-Feb-26	Checkers	SKU-101	Amstel	330ml	110	10 450	NAD
+13457	28-Feb-26	PnP	SKU-103	Heineken 0.0	330ml	70	8 050	NAD
