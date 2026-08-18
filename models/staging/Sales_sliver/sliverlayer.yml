@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: Sales_sliver
+    database: DATALAND
+    schema: Dbt_sthusi
+    tables:
+      - name: INVOICE_SALES_ZA
+      - name: SALES_NAM
