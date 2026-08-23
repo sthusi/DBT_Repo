@@ -1,11 +1,11 @@
 {{ config (materialized ='view')}}
 
 
-WITH nam AS (
+WITH za AS (
     SELECT * FROM {{ ref('stg_Sales_sliver__INVOICE_SALES_ZA') }}
 ),
 
-za AS (
+nam AS (
     SELECT * FROM {{ ref('stg_Sales_sliver__SALES_NAM') }}
 ),
 
